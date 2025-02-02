@@ -1,3 +1,4 @@
+![Alt text](terminal.png)
 # Minishell
 
 ## Introduction
